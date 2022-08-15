@@ -1,1 +1,6 @@
 # Primer Github con Python
+
+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
+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
+
+https://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@github.com/FranciscoPerezBer/PrimerG.git
